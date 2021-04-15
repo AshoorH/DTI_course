@@ -1,0 +1,7 @@
+name: DTI
+channels:
+  - defaults
+dependencies:
+  - scikit-learn
+  - jupyter
+prefix: /Users/ashoorh/miniconda3/envs/DTI
